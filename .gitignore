@@ -1,0 +1,6 @@
+# Never commit generated reports/logs (they contain real directory data)
+*-Report.csv
+*-Log.csv
+Reports/
+*.html
+!README.md
