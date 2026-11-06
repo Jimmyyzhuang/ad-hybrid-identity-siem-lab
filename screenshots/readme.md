@@ -1,3 +1,3 @@
-   # Screenshots
+# Screenshots
 
-   Images from each phase of the lab.
+Images from each phase of the lab.
