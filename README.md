@@ -39,5 +39,3 @@ Overall, this project demonstrates that I am capable of building, automating, se
 ## Outcome
 
 Successfully built a working hybrid identity environment with automated user lifecycle management and a SIEM that detected every simulated attack, demonstrating hands-on skills in identity administration, scripting, and security monitoring.
-
-<!-- Add your best screenshot here (see note in chat) -->
